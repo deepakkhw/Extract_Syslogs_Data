@@ -18,6 +18,7 @@ The script also deduplicates identical entries, ensuring a clean output.
 
 Note:
   """Main function to read log data, extract unique info, and export to Excel."""
+  
     file_path = "12-9-25.txt"
     excel_file_path = "unique_log_report-12-9-25.txt.xlsx"
 
